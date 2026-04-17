@@ -1,6 +1,6 @@
-# Frontend Wizards — Stage 1B Profile Card
+# Profile Card
 
-A responsive, accessible, and testable profile card component built for the Stage 1B frontend task. Built with plain HTML, CSS, and vanilla JavaScript.
+A responsive, accessible, and testable profile card component built for frontend task. Built with plain HTML, CSS, and vanilla JavaScript.
 
 ## Files
 
